@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My ESL Online Teacher Website</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#home">Home</a></li>
+          <li><a href="#blog">Blog</a></li>
+          <li><a href="#games">Games</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="home">
+        <h1>Welcome to My ESL Online Teacher Website</h1>
+        <p>Here you'll find resources and activities to help you improve your English skills.</p>
+      </section>
+      <section id="blog">
+        <h2>Blog</h2>
+        <p>Check out our latest articles about language learning and teaching methodologies.</p>
+      </section>
+      <section id="games">
+        <h2>Games</h2>
+        <p>Play our interactive games and activities to practice your English skills.</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; My ESL Online Teacher Website 2023</p>
+    </footer>
+  </body>
+</html>
